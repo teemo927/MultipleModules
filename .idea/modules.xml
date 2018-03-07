@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultipleModules.iml" filepath="$PROJECT_DIR$/MultipleModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameralibrary/cameralibrary.iml" filepath="$PROJECT_DIR$/cameralibrary/cameralibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testzhihu/testzhihu.iml" filepath="$PROJECT_DIR$/testzhihu/testzhihu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhihulibrary/zhihulibrary.iml" filepath="$PROJECT_DIR$/zhihulibrary/zhihulibrary.iml" />
+    </modules>
+  </component>
+</project>
